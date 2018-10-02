@@ -48,4 +48,5 @@ Bold indicates the implementation language. Italic indicates that the toolkit or
 | [IUP](https://en.wikipedia.org/wiki/IUP_%28software%29) | **C++**,  |
 | [CEGUI](https://en.wikipedia.org/wiki/CEGUI) | **C++**,  |
 | [ImGUI](https://github.com/ocornut/imgui) | **C++**, Rust, D |
+| [Toga](https://github.com/pybee/toga) | **Python**,  |
 
